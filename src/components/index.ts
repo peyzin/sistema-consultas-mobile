@@ -1,4 +1,2 @@
-/**
- * Exportacao centralizada dos componentes da aplicacao.
- */
-export { default as ConsultaCard } from "./ConsultaCard";
+export { default as Home } from "./Home";
+export { default as Admin } from "./Admin";
